@@ -9,7 +9,7 @@
 
   <br/>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3Mm13YmZ6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6/10h8gQE7d1p9q/giphy.gif" width="30"> 
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3Mm13YmZ6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6/10h8gQE7d1p9q/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWIydDV6Mm1xeGw1MG1paGN1YmQwZjNka3FvazNlc3h6azBrOHR0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)" width="30"> 
  3rd-year Computer Engineering student at Tekirdağ Namık Kemal University and Software Team Lead of the ŞAHİ Otonom UAV (SİHA) Team.
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3Mm13YmZ6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6/10h8gQE7d1p9q/giphy.gif" width="30">
   
