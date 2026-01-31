@@ -24,7 +24,7 @@
 
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/ozanardaozcelik/ozanardaozcelik/main/matrix.gif" width="100%" style="border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/ozanardaozcelik/ozanardaozcelik/main/matrix.gif" width="400" style="border-radius: 10px;">
 
   <br/><br/>
 
@@ -42,5 +42,5 @@
 
 <div align="center">
   <p><i>"Sharing tea with a fascinating stranger is one of life’s true delights."</i></p>
-  <img src="https://media1.giphy.com/media/ZvJ0bHvAy1N9S/giphy.gif?cid=ecf05e478lq1q1q1q1q1q1q1q1q1q1q1q1q1q1q1&rid=giphy.gif" width="200" />
+  <img src="https://media1.giphy.com/media/ZvJ0bHvAy1N9S/giphy.gif?cid=ecf05e478lq1q1q1q1q1q1q1q1q1q1q1q1q1q1q1&rid=giphy.gif" width="400" />
 </div>
