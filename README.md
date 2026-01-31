@@ -24,7 +24,7 @@
 
   <br/><br/>
 
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="100%" style="border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/ozanardaozcelik/ozanardaozcelik/main/matrix.gif" width="100%" style="border-radius: 10px;">
 
   <br/><br/>
 
