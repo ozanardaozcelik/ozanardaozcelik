@@ -22,12 +22,16 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-</div>
+  <br/><br/>
 
-<br/><br/>
+  <a href="./OzanArdaOzcelikCV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Özgeçmiş_(TR)-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="./OzanArdaOzcelikCVeng.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume_(EN)-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ozanardaozcelik/ozanardaozcelik/output/github-contribution-grid-snake.svg" alt="snake prediction"/>
 </div>
 
 <hr/>
