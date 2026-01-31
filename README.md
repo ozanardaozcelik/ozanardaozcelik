@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./banner.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+  <img src="https://raw.githubusercontent.com/ozanardaozcelik/ozanardaozcelik/main/banner.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
 
   <br/><br/>
 
@@ -10,7 +10,7 @@
   <br/>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3Mm13YmZ6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6/10h8gQE7d1p9q/giphy.gif" width="30"> 
-  Namık Kemal Üniversitesi Bilgisayar Mühendisliği 3. Sınıf Öğrencisi ve Şahi Otonom SİHA Takımının Yazılım Lideriyim. 
+  **Namık Kemal Üniversitesi Bilgisayar Mühendisliği 3. Sınıf Öğrencisi** ve **Şahi Otonom SİHA** Takımı Yazılım Lideriyim. 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3Mm13YmZ6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6/10h8gQE7d1p9q/giphy.gif" width="30">
   
   <br/><br/>
@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/ozanardaozcelik">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ozan.a.ozcelik@gmail.com">
+  <a href="mailto:ozan.a.ozcelik@gmail.com?subject=GitHub%20İletişim">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
