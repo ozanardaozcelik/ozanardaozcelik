@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./banner.png" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
+  <img src="./banner.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
 
   <br/><br/>
 
@@ -10,7 +10,7 @@
   <br/>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3Mm13YmZ6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6/10h8gQE7d1p9q/giphy.gif" width="30"> 
-  **Namık Kemal Üniversitesi Bilgisayar Mühendisliği 3. Sınıf Öğrencisi** ve **Şahi Otonom SİHA** Takımı Yazılım Lideriyim. 
+  Namık Kemal Üniversitesi Bilgisayar Mühendisliği 3. Sınıf Öğrencisi ve Şahi Otonom SİHA Takımının Yazılım Lideriyim. 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3Mm13YmZ6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6/10h8gQE7d1p9q/giphy.gif" width="30">
   
   <br/><br/>
