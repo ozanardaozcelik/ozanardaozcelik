@@ -10,7 +10,7 @@
   <br/>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3Mm13YmZ6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6/10h8gQE7d1p9q/giphy.gif" width="30"> 
-  **Namık Kemal Üniversitesi Bilgisayar Mühendisliği 3. Sınıf Öğrencisi** ve **Şahi Otonom SİHA** Takımı Yazılım Lideriyim. 
+ 3rd-year Computer Engineering student at Tekirdağ Namık Kemal University and Software Team Lead of the ŞAHİ Otonom UAV (SİHA) Team.
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3Mm13YmZ6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6Z2F6/10h8gQE7d1p9q/giphy.gif" width="30">
   
   <br/><br/>
