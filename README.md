@@ -26,16 +26,6 @@
 
   <img src="https://raw.githubusercontent.com/ozanardaozcelik/ozanardaozcelik/main/matrix.gif" width="400" style="border-radius: 10px;">
 
-  <br/><br/>
-
-  <a href="./OzanArdaOzcelikCV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Özgeçmiş_(TR)-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="./OzanArdaOzcelikCVeng.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume_(EN)-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-
 </div>
 
 <hr/>
